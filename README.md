@@ -1,2 +1,0 @@
-# GYM
-app gimnasio
